@@ -1,4 +1,9 @@
 ### Hi there 👋
+This is Sue. 
+- 🌱 I’m currently pursuing my master's degree in Business Analytics at USC Marshall. 
+- 🔭 My blog: https://gxx-s.github.io/
+- 😄 I'm also a content/video creator on the Redbook and Bilibili. 
+- 🌼 Hobbies: Diving, Swimming, Dancing (Ballet & Jazz) 
 
 <!--
 **GXX-s/GXX-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
